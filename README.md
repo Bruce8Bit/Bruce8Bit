@@ -1,6 +1,6 @@
 <!-- 个人资料 -->
 <p> 
-<a href="https://blog.bugdesigner.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
+<a href="https://rdive.top/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/588863594" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 </p>
 
